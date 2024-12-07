@@ -1,12 +1,13 @@
 # Stock-Movement-Prediction-Using-Social-Media-Sentiment
 "Predict stock movements by analyzing the pulse of social media! Harness sentiment analysis to uncover trends, correlate public opinion with market data, and stay ahead in the financial game."
-Introduction
+**Introduction**
 Social media platforms are treasure troves of real-time sentiment data. This project leverages sentiment analysis to evaluate public opinion about specific stocks and correlates it with historical stock price data to predict stock movements.
 
-Objective
+**Objective**
 Analyze social media sentiment to understand public opinion about stocks.
 Use sentiment scores and historical stock data to predict stock price changes.
-Features
+
+**Features**
 Sentiment Analysis:
 
 Analyze public sentiment using the VADER Sentiment Analyzer.
@@ -36,7 +37,7 @@ Social media data (e.g., Twitter API, Reddit API).
 Stock market data (e.g., Yahoo Finance, Alpha Vantage).
 
 
-Workflow
+**Workflow**
 Data Collection:
 
 Fetch social media data related to a stock (e.g., mentions of "AAPL").
