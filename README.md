@@ -8,7 +8,7 @@ Analyze social media sentiment to understand public opinion about stocks.
 Use sentiment scores and historical stock data to predict stock price changes.
 
 **Features**
-Sentiment Analysis:
+**Sentiment Analysis:**
 
 Analyze public sentiment using the VADER Sentiment Analyzer.
 Score social media posts (positive, neutral, negative).
@@ -16,7 +16,7 @@ Stock Data Integration:
 
 Retrieve historical stock data from financial APIs.
 Combine stock data with aggregated sentiment scores.
-Prediction Model:
+**Prediction Model:**
 
 Train and evaluate models (e.g., Linear Regression, Random Forest) to predict stock price movements.
 Visualization:
@@ -26,12 +26,12 @@ Show prediction results with charts.
 Technologies Used
 Python Libraries:
 
-Data Processing: pandas, numpy
+**Data Processing:** pandas, numpy
 Sentiment Analysis: nltk (VADER Sentiment Analyzer)
 Financial Data: yfinance or alpha_vantage
 Machine Learning: scikit-learn
 Visualization: matplotlib, seaborn
-APIs:
+**APIs:**
 
 Social media data (e.g., Twitter API, Reddit API).
 Stock market data (e.g., Yahoo Finance, Alpha Vantage).
