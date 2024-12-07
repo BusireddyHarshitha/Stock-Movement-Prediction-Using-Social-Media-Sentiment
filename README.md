@@ -1,5 +1,6 @@
-# Stock-Movement-Prediction-Using-Social-Media-Sentiment
+# Stock-Movement-Prediction-Using-Social-Media-Sentiment Using Reddit
 "Predict stock movements by analyzing the pulse of social media! Harness sentiment analysis to uncover trends, correlate public opinion with market data, and stay ahead in the financial game."
+
 **Introduction**
 Social media platforms are treasure troves of real-time sentiment data. This project leverages sentiment analysis to evaluate public opinion about specific stocks and correlates it with historical stock price data to predict stock movements.
 
